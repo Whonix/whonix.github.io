@@ -1,7 +1,15 @@
+#custom-header .donate img {
+  top: 6px;
+  left: -5px;
+}
+
+#custom-header .search {
+  margin-right: 8px;
+}
+
 #mw-content-text {
   padding-bottom: 100px;
 }
-
 
 #mw-content-text .section-competition .learn-more-vpns {
   background: #0053a3;
