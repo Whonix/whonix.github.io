@@ -26,4 +26,9 @@
 
 #mw-content-text .section-competition .learn-more-vpns a {
   color: white;
+  font-weight: bold;
+}
+
+#mw-content-text .section-competition .learn-more-vpns a:not(:hover) {
+  text-decoration: none;
 }
